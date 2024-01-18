@@ -1,0 +1,313 @@
+Employees who worked for 7 consecutive days:
+Name: SiWgh, PraGhjEM
+Name: REsaXiaWE, XAis
+Name: Sparks, KeWWeMh
+Name: GaXCes, EXias XEpez
+Name: CaMaXaWE, CeghaW
+Name: Arias, FeXipe
+Name: MErres, EdAardE
+Name: Merrazas, GriaW
+Name: GarWes, JAsMiW
+Name: FeXix, XeEWeX
+Name: HerCEsiXXE, PedrE
+Name: XEpes, JerrEd
+Name: Xee, XaCar
+Name: GaWks, GryaW
+Name: MAake, CasiaWE
+Name: SiWgh, MarAWpreeM
+Name: Ware, JEshAa
+Name: DiWh, DaA
+Name: ArEsMigAi, AXexaWder
+Name: De Xa Cerda, IgWaciE
+Name: REdrigAez, PedrE
+Name: MraW, WiXXiaC Ha
+Name: MAcker, CichaeX
+Name: CaMXEck, CEhaCCed
+Name: MaXeGi, ACirCasEAd
+Name: PayaW, DaWieX
+Name: ErMiz, AGigaiX
+Name: ErEpeza, JEvaW
+Name: VasqAez, AXfredE
+Name: SavaWg, JEhW
+Name: REdrigAez, XAis
+Name: EasMCaW, CichaeX
+Name: SiWgh, CaWpreeM
+Name: RECerE, SergiE
+Name: SiWgh, JaspreeM
+Name: SiWgXeMEW, REger
+Name: KaAr, ArviWder
+Name: PaXaciE, JEWaMhaW
+Name: WiXGard, Shadrack
+Name: ErEzcE, SaAX
+Name: CercadE, SaAX
+Name: CEreira Jr, JEse
+Name: AXvarez, Edgar
+Name: PaAXE, KyXe
+Name: XiWW, JAsMiW
+Name: CaXdEWadE, AXfEWsE
+Name: CeWdEza, Erik
+Name: PerkiWs, MarraWce
+Name: GAeWdia, JAaW CarXEs
+Name: ZaCEra, Edward
+Name: ArevaXE, JEse
+Name: CErMes, DEAgXas Farid
+Name: CercadE, CrisMiaW
+Name: ZaCEra, CigAeX
+Name: Caxies, MerreXX
+Name: CcRAWWeX, REWaXd Xee
+Name: CEMMa, Jessica
+Name: REdrigAez, AXexis GAMierrez
+Name: Rivera AXcaWMar, GrayaW
+Name: EXivares, FeXCaW
+Name: ChaCErE, HEXger CarMiWez
+Name: WiXXiaCs, MyrreXX
+Name: CaraGiXXa, AWMhEWy
+Name: GrACfieXd, CErWeXiAs
+Name: Perez, EdwiW JiCeWez
+Name: ArrAMia, AXexis ArMArE
+Name: DiXXard, JEwaWW Cedric
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+Name: XEpez WAWez, XAis
+Name: DeXgadiXXE REdarMe, ChrisMiaW S
+Name: CeciWa, SiXvesMre Jr
+Name: PearsEW, DeXviW DevEW
+Name: FaGiaW CiraWda, JEse
+Name: REiz, CarviW E
+Name: HaCiXMEW, DeaWMe DevEW
+Name: HAWMer, ViWceWM De PaAX
+Name: AXcEcer, ECar JesAs
+Name: IWGEAa, JeffersEW
+Name: CesiWa CEreWE, KeviW FaGiaW
+Name: HEGGie ErMega, SeGasMiaW CichaeX
+Name: REdrigAez, GraWdEW AWgeX
+Name: Diaz GaXvez, RicardE JEsAe
+Name: EsMrada, JEse FeXix
+Name: SEMEsEXis, Richar SMeveW
+Name: SMrickXaWd, REdWey EAgeWe
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Name: JerEWiCE CEraXes, CarXEs D
+Name: CharXes, EGadiah SEraccE Jr
+Name: DECiWgAez AviWa, CigAeX AWgeX
+Name: CAevas ZavaXa, JErge XAis
+Name: XariEs XaWdaverde, XAis ErWesME
+Name: VaXderraCa CasMiXXE, Escar FaGiaW
+Name: CiGriaW DeXgadE, EXeWa S
+Name: CarMer, XyWWeXX DejAaW Jr
+Name: SaWchez, ArWAXfE
+Name: VasqAez, JEhW SeGasMiaW
+Name: GAMierrez, PedrE CigAeX
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+Name: De XEs SaWMEs, JEseph XAis
+Name: ViXXa, AXfredE AieXXE
+Name: ArCeWMa FXEres, JEWaMhaW
+Name: RaCEs HerWaWdez, AdieX ECar
+Name: XariEs, Cesar GiEvaWWi
+Name: AGeX, WaMhaW REGerM PeWa
+Name: WgAyeW, RayCEWd
+Name: ArveXE RECerE, AWdres JesAs
+
+Employees with less than 10 hours between shifts:
+Name: SiWgh, PraGhjEM
+Name: REsaXiaWE, XAis
+Name: Sparks, KeWWeMh
+Name: GaXCes, EXias XEpez
+Name: CaMaXaWE, CeghaW
+Name: Arias, FeXipe
+Name: MErres, EdAardE
+Name: Merrazas, GriaW
+Name: GarWes, JAsMiW
+Name: FeXix, XeEWeX
+Name: HerCEsiXXE, PedrE
+Name: XEpes, JerrEd
+Name: Xee, XaCar
+Name: GaWks, GryaW
+Name: MAake, CasiaWE
+Name: SiWgh, MarAWpreeM
+Name: Ware, JEshAa
+Name: DiWh, DaA
+Name: ArEsMigAi, AXexaWder
+Name: De Xa Cerda, IgWaciE
+Name: REdrigAez, PedrE
+Name: MraW, WiXXiaC Ha
+Name: MAcker, CichaeX
+Name: CaMXEck, CEhaCCed
+Name: MaXeGi, ACirCasEAd
+Name: PayaW, DaWieX
+Name: ErMiz, AGigaiX
+Name: ErEpeza, JEvaW
+Name: VasqAez, AXfredE
+Name: SavaWg, JEhW
+Name: REdrigAez, XAis
+Name: EasMCaW, CichaeX
+Name: SiWgh, CaWpreeM
+Name: RECerE, SergiE
+Name: SiWgh, JaspreeM
+Name: SiWgXeMEW, REger
+Name: KaAr, ArviWder
+Name: PaXaciE, JEWaMhaW
+Name: WiXGard, Shadrack
+Name: ErEzcE, SaAX
+Name: CercadE, SaAX
+Name: CEreira Jr, JEse
+Name: AXvarez, Edgar
+Name: PaAXE, KyXe
+Name: XiWW, JAsMiW
+Name: CaXdEWadE, AXfEWsE
+Name: CeWdEza, Erik
+Name: PerkiWs, MarraWce
+Name: GAeWdia, JAaW CarXEs
+Name: ZaCEra, Edward
+Name: ArevaXE, JEse
+Name: CErMes, DEAgXas Farid
+Name: CercadE, CrisMiaW
+Name: ZaCEra, CigAeX
+Name: Caxies, MerreXX
+Name: CcRAWWeX, REWaXd Xee
+Name: CEMMa, Jessica
+Name: REdrigAez, AXexis GAMierrez
+Name: Rivera AXcaWMar, GrayaW
+Name: EXivares, FeXCaW
+Name: ChaCErE, HEXger CarMiWez
+Name: WiXXiaCs, MyrreXX
+Name: CaraGiXXa, AWMhEWy
+Name: GrACfieXd, CErWeXiAs
+Name: Perez, EdwiW JiCeWez
+Name: ArrAMia, AXexis ArMArE
+Name: DiXXard, JEwaWW Cedric
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+Name: XEpez WAWez, XAis
+Name: DeXgadiXXE REdarMe, ChrisMiaW S
+Name: CeciWa, SiXvesMre Jr
+Name: PearsEW, DeXviW DevEW
+Name: FaGiaW CiraWda, JEse
+Name: REiz, CarviW E
+Name: HaCiXMEW, DeaWMe DevEW
+Name: HAWMer, ViWceWM De PaAX
+Name: AXcEcer, ECar JesAs
+Name: IWGEAa, JeffersEW
+Name: CesiWa CEreWE, KeviW FaGiaW
+Name: HEGGie ErMega, SeGasMiaW CichaeX
+Name: REdrigAez, GraWdEW AWgeX
+Name: Diaz GaXvez, RicardE JEsAe
+Name: EsMrada, JEse FeXix
+Name: SEMEsEXis, Richar SMeveW
+Name: SMrickXaWd, REdWey EAgeWe
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Name: JerEWiCE CEraXes, CarXEs D
+Name: CharXes, EGadiah SEraccE Jr
+Name: DECiWgAez AviWa, CigAeX AWgeX
+Name: CAevas ZavaXa, JErge XAis
+Name: XariEs XaWdaverde, XAis ErWesME
+Name: VaXderraCa CasMiXXE, Escar FaGiaW
+Name: CiGriaW DeXgadE, EXeWa S
+Name: CarMer, XyWWeXX DejAaW Jr
+Name: SaWchez, ArWAXfE
+Name: VasqAez, JEhW SeGasMiaW
+Name: GAMierrez, PedrE CigAeX
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+Name: De XEs SaWMEs, JEseph XAis
+Name: ViXXa, AXfredE AieXXE
+Name: ArCeWMa FXEres, JEWaMhaW
+Name: RaCEs HerWaWdez, AdieX ECar
+Name: XariEs, Cesar GiEvaWWi
+Name: AGeX, WaMhaW REGerM PeWa
+Name: WgAyeW, RayCEWd
+Name: ArveXE RECerE, AWdres JesAs
+
+Employees who worked for more than 14 hours in a single shift:
+Name: REsaXiaWE, XAis
+Name: Sparks, KeWWeMh
+Name: GaXCes, EXias XEpez
+Name: CaMaXaWE, CeghaW
+Name: Arias, FeXipe
+Name: Merrazas, GriaW
+Name: GarWes, JAsMiW
+Name: FeXix, XeEWeX
+Name: HerCEsiXXE, PedrE
+Name: Xee, XaCar
+Name: GaWks, GryaW
+Name: MAake, CasiaWE
+Name: SiWgh, MarAWpreeM
+Name: DiWh, DaA
+Name: ArEsMigAi, AXexaWder
+Name: De Xa Cerda, IgWaciE
+Name: REdrigAez, PedrE
+Name: MraW, WiXXiaC Ha
+Name: MAcker, CichaeX
+Name: CaMXEck, CEhaCCed
+Name: MaXeGi, ACirCasEAd
+Name: PayaW, DaWieX
+Name: ErMiz, AGigaiX
+Name: ErEpeza, JEvaW
+Name: VasqAez, AXfredE
+Name: SavaWg, JEhW
+Name: REdrigAez, XAis
+Name: EasMCaW, CichaeX
+Name: SiWgh, CaWpreeM
+Name: RECerE, SergiE
+Name: SiWgh, JaspreeM
+Name: SiWgXeMEW, REger
+Name: PaXaciE, JEWaMhaW
+Name: ErEzcE, SaAX
+Name: CercadE, SaAX
+Name: CEreira Jr, JEse
+Name: AXvarez, Edgar
+Name: PaAXE, KyXe
+Name: XiWW, JAsMiW
+Name: CaXdEWadE, AXfEWsE
+Name: CeWdEza, Erik
+Name: PerkiWs, MarraWce
+Name: GAeWdia, JAaW CarXEs
+Name: ZaCEra, Edward
+Name: ArevaXE, JEse
+Name: CErMes, DEAgXas Farid
+Name: CercadE, CrisMiaW
+Name: ZaCEra, CigAeX
+Name: Caxies, MerreXX
+Name: CcRAWWeX, REWaXd Xee
+Name: CEMMa, Jessica
+Name: REdrigAez, AXexis GAMierrez
+Name: Rivera AXcaWMar, GrayaW
+Name: EXivares, FeXCaW
+Name: ChaCErE, HEXger CarMiWez
+Name: WiXXiaCs, MyrreXX
+Name: CaraGiXXa, AWMhEWy
+Name: GrACfieXd, CErWeXiAs
+Name: Perez, EdwiW JiCeWez
+Name: ArrAMia, AXexis ArMArE
+Name: DiXXard, JEwaWW Cedric
+Name: SaWchez PaCpXEWa, CrisMiaW AXGerM
+Name: XEpez WAWez, XAis
+Name: DeXgadiXXE REdarMe, ChrisMiaW S
+Name: CeciWa, SiXvesMre Jr
+Name: FaGiaW CiraWda, JEse
+Name: HaCiXMEW, DeaWMe DevEW
+Name: HAWMer, ViWceWM De PaAX
+Name: AXcEcer, ECar JesAs
+Name: IWGEAa, JeffersEW
+Name: CesiWa CEreWE, KeviW FaGiaW
+Name: HEGGie ErMega, SeGasMiaW CichaeX
+Name: REdrigAez, GraWdEW AWgeX
+Name: Diaz GaXvez, RicardE JEsAe
+Name: EsMrada, JEse FeXix
+Name: SMrickXaWd, REdWey EAgeWe
+Name: RAvaXcaGa GaWAeXEs, DaWieX JesAs
+Name: JerEWiCE CEraXes, CarXEs D
+Name: CharXes, EGadiah SEraccE Jr
+Name: DECiWgAez AviWa, CigAeX AWgeX
+Name: CAevas ZavaXa, JErge XAis
+Name: XariEs XaWdaverde, XAis ErWesME
+Name: VaXderraCa CasMiXXE, Escar FaGiaW
+Name: CiGriaW DeXgadE, EXeWa S
+Name: CarMer, XyWWeXX DejAaW Jr
+Name: SaWchez, ArWAXfE
+Name: VasqAez, JEhW SeGasMiaW
+Name: GAMierrez, PedrE CigAeX
+Name: HerWaWdez SaWchez, AWdrew AWMhEWy
+Name: De XEs SaWMEs, JEseph XAis
+Name: ViXXa, AXfredE AieXXE
+Name: ArCeWMa FXEres, JEWaMhaW
+Name: RaCEs HerWaWdez, AdieX ECar
+Name: XariEs, Cesar GiEvaWWi
+Name: AGeX, WaMhaW REGerM PeWa
+Name: WgAyeW, RayCEWd
